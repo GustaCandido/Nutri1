@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "./static/js/main.4b864bed.js",
+    "static/media/nb.jpg": "./static/media/nb.da3859ff249236b66217.jpg",
+    "static/media/Comida.jpg": "./static/media/Comida.bd91eea3777b2a9b6263.jpg",
+    "static/media/bb.jpg": "./static/media/bb.dbbe6632a1959b2dd49f.jpg",
+    "static/media/Home.jpg": "./static/media/Home.b3178e5eb0edcd5a1048.jpg",
+    "static/media/ginastica.png": "./static/media/ginastica.66191f3d13e319039edf.png",
+    "static/media/magro.png": "./static/media/magro.6f86350986321285dcfc.png",
+    "static/media/balanca.png": "./static/media/balanca.23607c40cfffad7f91d1.png",
+    "static/media/ioga.png": "./static/media/ioga.9a2b443bf5cc59f1da8d.png",
+    "index.html": "./index.html",
+    "main.4b864bed.js.map": "./static/js/main.4b864bed.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4b864bed.js"
+  ]
+}
